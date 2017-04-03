@@ -1,10 +1,11 @@
 # Chess-king-go
-Составление КС-грамматики
 
-Программа, которая проверяет правильность введенного пути шахматного короля до определенной клетки и обратно. 
+Compiling Context-free grammar
 
-Пути шахматного короля по бесконечной доске с возвращением по пройденным клеткам в обратном порядке - Пример: ARRUULBRDDLL.	
+A program that checks the correctness of the entered path of the chess king to a certain cell and back.
 
-Более подробная работа представлена в docx файле или по ссылке: https://docs.google.com/document/edit?hgd=1&id=1-pS3TxPWcBsagk_SYmtSrF5ofwihDBcplhyb_g826WU
+Ways of the chess king on an infinite board with a return on the passed cages in the reverse order - Example: ARRUULBRDDLL.
+
+More detailed work is presented in the docx file or by the link: https://docs.google.com/document/edit?hgd=1&id=1-pS3TxPWcBsagk_SYmtSrF5ofwihDBcplhyb_g826WU
 
 
